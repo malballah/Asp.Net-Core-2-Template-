@@ -1,0 +1,17 @@
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\bin\Debug\netcoreapp2.0\CSP1270.Abstraction.deps.json
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\bin\Debug\netcoreapp2.0\CSP1270.Abstraction.dll
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\bin\Debug\netcoreapp2.0\CSP1270.Abstraction.pdb
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.dll
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.pdb
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.csprojResolveAssemblyReference.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\bin\Debug\netcoreapp2.0\CSP1270.Abstraction.deps.json
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\bin\Debug\netcoreapp2.0\CSP1270.Abstraction.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\bin\Debug\netcoreapp2.0\CSP1270.Abstraction.pdb
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Abstraction\obj\Debug\netcoreapp2.0\CSP1270.Abstraction.pdb

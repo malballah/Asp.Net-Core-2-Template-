@@ -1,0 +1,17 @@
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\bin\Debug\netcoreapp2.0\CSP1270.Core.deps.json
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\bin\Debug\netcoreapp2.0\CSP1270.Core.dll
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\bin\Debug\netcoreapp2.0\CSP1270.Core.pdb
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.dll
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.pdb
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.csprojResolveAssemblyReference.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\bin\Debug\netcoreapp2.0\CSP1270.Core.deps.json
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\bin\Debug\netcoreapp2.0\CSP1270.Core.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\bin\Debug\netcoreapp2.0\CSP1270.Core.pdb
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Core\obj\Debug\netcoreapp2.0\CSP1270.Core.pdb

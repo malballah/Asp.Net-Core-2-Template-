@@ -1,0 +1,8 @@
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\obj\Debug\netcoreapp2.0\CSP1270.Domain.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\obj\Debug\netcoreapp2.0\CSP1270.Domain.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\obj\Debug\netcoreapp2.0\CSP1270.Domain.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\bin\Debug\netcoreapp2.0\CSP1270.Domain.deps.json
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\bin\Debug\netcoreapp2.0\CSP1270.Domain.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\bin\Debug\netcoreapp2.0\CSP1270.Domain.pdb
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\obj\Debug\netcoreapp2.0\CSP1270.Domain.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Domain\obj\Debug\netcoreapp2.0\CSP1270.Domain.pdb

@@ -1,0 +1,17 @@
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\bin\Debug\netcoreapp2.0\CSP1270.Infrastructure.deps.json
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\bin\Debug\netcoreapp2.0\CSP1270.Infrastructure.dll
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\bin\Debug\netcoreapp2.0\CSP1270.Infrastructure.pdb
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.dll
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.pdb
+D:\Freelance\CSP\Repository\CSP1270\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\bin\Debug\netcoreapp2.0\CSP1270.Infrastructure.deps.json
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\bin\Debug\netcoreapp2.0\CSP1270.Infrastructure.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\bin\Debug\netcoreapp2.0\CSP1270.Infrastructure.pdb
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.AssemblyInfoInputs.cache
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.AssemblyInfo.cs
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.dll
+D:\Freelance\CSP\Repository\trunk\CSP1270.Infrastructure\obj\Debug\netcoreapp2.0\CSP1270.Infrastructure.pdb
