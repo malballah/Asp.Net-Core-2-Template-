@@ -1,5 +1,6 @@
-# Asp.Net-Core-2-Template-
-Asp.Net Core 2 starter template with autofac, automapper, automapper attributes, repository pattern and unit of work pattern all configured
+# N-Tier Asp.Net Core2
+N-Tier Asp.Net Core 2 starter template configured with autofac, automapper, automapper attributes, repository and unit of work
+patterns
 
 # To Install
 1-Change the connection string in appsettings.json.
