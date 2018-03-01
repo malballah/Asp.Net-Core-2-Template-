@@ -8113,11 +8113,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj",
+      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj",
       "projectName": "ComName.ProjName.Domain",
-      "projectPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj",
+      "projectPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj",
       "packagesPath": "C:\\Users\\malballah\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Domain\\obj\\",
+      "outputPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

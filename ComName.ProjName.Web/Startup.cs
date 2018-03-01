@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using ComName.ProjName.Services;
 using ComName.ProjName.Application;
 using ComName.ProjName.Domain;
+using System.Reflection;
 
 namespace ComName.ProjName
 {
@@ -36,11 +37,13 @@ namespace ComName.ProjName
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
 
-            services.AddMvc();
+            services.AddMvc().AddControllersAsServices();
             var mapper = Dto.AutoMapperConfiguration.Configure();
             //register automapper into the services
             services.AddSingleton(mapper);
-            return AutoFacConfiguration.Configure(services);
+            //register all other services
+            //send this assembly to register controllers and properties
+            return AutoFacConfiguration.Configure(services, Assembly.GetExecutingAssembly());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

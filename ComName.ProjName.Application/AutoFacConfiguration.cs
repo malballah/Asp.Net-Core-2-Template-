@@ -4,9 +4,11 @@ using ComName.ProjName.Abstraction;
 using ComName.ProjName.Application.Services;
 using ComName.ProjName.Domain;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
+using System.Reflection;
 
 namespace ComName.ProjName.Application
 {
@@ -14,7 +16,7 @@ namespace ComName.ProjName.Application
     {
         public static IContainer Container { get; private set; }
 
-        public static IServiceProvider Configure(IServiceCollection services)
+        public static IServiceProvider Configure(IServiceCollection services,Assembly webAssembly)
         {
             // Create the container builder.
             var builder = new ContainerBuilder();
@@ -31,6 +33,10 @@ namespace ComName.ProjName.Application
             // AFTER Populate those registrations can override things
             // in the ServiceCollection. Mix and match as needed.
             builder.Populate(services);
+            //register controllers to support property injection
+            builder.RegisterAssemblyTypes(webAssembly)
+    .Where(t => typeof(Controller).IsAssignableFrom(t))
+    .PropertiesAutowired();
             RegisterTypes(builder);
             Container = builder.Build();
             

@@ -8212,11 +8212,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Dto\\ComName.ProjName.Dto.csproj",
+      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Dto\\ComName.ProjName.Dto.csproj",
       "projectName": "ComName.ProjName.Dto",
-      "projectPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Dto\\ComName.ProjName.Dto.csproj",
+      "projectPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Dto\\ComName.ProjName.Dto.csproj",
       "packagesPath": "C:\\Users\\malballah\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Dto\\obj\\",
+      "outputPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8236,11 +8236,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj": {
-              "projectPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj"
+            "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj": {
+              "projectPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj"
             },
-            "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj": {
-              "projectPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj"
+            "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj": {
+              "projectPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Domain\\ComName.ProjName.Domain.csproj"
             }
           }
         }

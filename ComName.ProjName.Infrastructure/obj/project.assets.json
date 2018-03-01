@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj",
       "projectName": "ComName.ProjName.Infrastructure",
-      "projectPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj",
+      "projectPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Infrastructure\\ComName.ProjName.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\malballah\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Infrastructure\\obj\\",
+      "outputPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

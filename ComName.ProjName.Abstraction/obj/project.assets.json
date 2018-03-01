@@ -2767,11 +2767,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Abstraction\\ComName.ProjName.Abstraction.csproj",
+      "projectUniqueName": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Abstraction\\ComName.ProjName.Abstraction.csproj",
       "projectName": "ComName.ProjName.Abstraction",
-      "projectPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Abstraction\\ComName.ProjName.Abstraction.csproj",
+      "projectPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Abstraction\\ComName.ProjName.Abstraction.csproj",
       "packagesPath": "C:\\Users\\malballah\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelance\\Asp.Net Core 2 My Starter Template\\ComName.ProjName.Abstraction\\obj\\",
+      "outputPath": "D:\\Freelance\\Asp.Net Core 2 Starter Template\\Asp.Net-Core-2-Template-\\ComName.ProjName.Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

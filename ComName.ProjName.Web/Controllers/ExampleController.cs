@@ -15,21 +15,19 @@ using ComName.ProjName.Domain;
 namespace ComName.ProjName.Controllers
 {
     [Authorize]
-    public class ExampleController : Controller
+    public class ExampleController : BaseController
     {
-        private readonly IAppSession _appSession;
         private readonly IMapper _mapper;
         private readonly IDbService<AppUser> _appUserService;
 
-        public ExampleController(IAppSession appSession,IMapper mapper,IDbService<AppUser> appUserService)
+        public ExampleController(IMapper mapper,IDbService<AppUser> appUserService)
         {
-            _appSession = appSession;
             _mapper = mapper;
             _appUserService = appUserService;
         }
         public string Index()
         {
-            var userDto = _mapper.Map<UserDto>(_appSession.User);
+            var userDto = _mapper.Map<UserDto>(AppSession.User);
             return userDto.UserName;
             //or of you want to get a specific user with it's username 
             var user = _appUserService.FindBy(item => item.UserName == "admin").FirstOrDefault();
