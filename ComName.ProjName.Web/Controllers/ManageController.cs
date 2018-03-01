@@ -496,7 +496,7 @@ namespace ComName.ProjName.Controllers
         {
             return string.Format(
                 AuthenicatorUriFormat,
-                _urlEncoder.Encode("CSP1270"),
+                _urlEncoder.Encode("ProjName"),
                 _urlEncoder.Encode(email),
                 unformattedKey);
         }

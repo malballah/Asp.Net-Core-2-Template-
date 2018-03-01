@@ -2,7 +2,9 @@
 using Autofac.Extensions.DependencyInjection;
 using ComName.ProjName.Abstraction;
 using ComName.ProjName.Application.Services;
+using ComName.ProjName.Domain;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
@@ -45,6 +47,7 @@ namespace ComName.ProjName.Application
             builder.RegisterGeneric(typeof(DbService<>)).As(typeof(IDbService<>)).InstancePerLifetimeScope();
             builder.RegisterType<UnitOfWork>().As<IUnitOfWork>().InstancePerLifetimeScope();
             builder.RegisterType<AppSession>().As<IAppSession>().InstancePerLifetimeScope();
+            builder.RegisterType<AppDbContext>().As<DbContext>().InstancePerLifetimeScope();
         }
     }
 }

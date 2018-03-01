@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CSP1270": {
+    "ProjName": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

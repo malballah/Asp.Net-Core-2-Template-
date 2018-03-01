@@ -8,8 +8,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using ComName.ProjName.Data;
-using ComName.ProjName.Models;
 using ComName.ProjName.Services;
 using ComName.ProjName.Application;
 using ComName.ProjName.Domain;
