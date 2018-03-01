@@ -4,4 +4,4 @@ Asp.Net Core 2 starter template with autofac, automapper, automapper attributes,
 # To Install
 1-Change the connection string in appsettings.json.
 2-Run the command update-database in Package Manager Console.
-3-Run the application, register a new user and have a look at the ExampleController.cs to see what is going on.
+3-Run the application, register a new user and have a look at the controller ExampleController to see what is going on.
