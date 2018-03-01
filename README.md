@@ -1,4 +1,4 @@
-# N-Tier Asp.Net Core2
+# N-Tier Asp.Net Core 2
 N-Tier Asp.Net Core 2 starter template configured with autofac, automapper, automapper attributes, repository and unit of work
 patterns
 
